@@ -1,0 +1,62 @@
+html {
+    scroll-behavior: smooth;
+    font-family: Helvetica, sans-serif, Arial;
+}
+
+body {
+    margin: 0 auto;
+    background-color:whitesmoke;
+}
+
+a{
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    
+}
+
+
+ nav{
+   
+    border: 1px solid #2f4f4f;
+    background-color:rgba(10, 2, 24, 0.952);
+    color: blanchedalmond;
+    padding: 7px;
+} 
+
+p{
+    text-align: justify;
+}
+
+section{
+    padding: 17px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+img{
+    padding: 25px;
+}
+
+.btn{
+    width: 100%;
+  }
+  
+#forget{
+    text-decoration: none;
+  }
+
+.bt1{
+      background-color:green ;
+      color: white;
+  }
+.bt2{
+    background-color: tomato;
+    color:white;
+
+}
+.rep{
+        margin-bottom: 20px;
+        border-radius: 20px;
+}
